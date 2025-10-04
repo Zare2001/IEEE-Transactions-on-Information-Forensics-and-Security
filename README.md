@@ -21,7 +21,7 @@ The core objective of this research is to demonstrate that strengthening privacy
 
 This repository is organized as follows:
 
-*   `APPENDIX_A_IEEE_Transactions_on_Informational_Privacy_and_Byzantine_Robustness.pdf`: The full research paper (or supplementary material PDF).
+*   `APPENDIX_A_IEEE_Transactions_on_Informational_Privacy_and_Byzantine_Robustness.pdf`: supplementary material PDF.
 *   `AverageFed.py`: Core implementation of the PDMM-based FedAVG aggregation logic.
 *   `Corruption.py`: Definitions and implementations of various Byzantine attack models.
 *   `MDR_and_FAR_Plotter.ipynb`: Jupyter notebook for generating the False Alarm Rate (FAR) and Missed Detection Rate (MDR) plots, as seen in the paper's results section.
